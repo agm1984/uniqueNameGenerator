@@ -20,9 +20,11 @@ const businessMemory = './used_business_names.log';
 ```
 
 ## Usage Example
-// Generate 100 unique Business Names with length up to 2 words each
-generateUniqueBusinessName(2, 100, businessMemory, sampleFile);
+To generate 100 unique Business Names with length up to 2 words each:
 
+`generateUniqueBusinessName(2, 100, businessMemory, sampleFile);`
+
+#### Warning
 Script is not designed for exporting, at this time.
 
 It is used for internal-use for load testing large numbers of fake Business Names.
