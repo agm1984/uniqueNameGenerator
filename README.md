@@ -5,7 +5,6 @@
 ``` bash
 $ git clone https://github.com/agm1984/uniqueNameGenerator.git
 $ cd uniqueNameGenerator
-$ npm install
 ```
 
 For first time use, examine words.txt and ensure it contains suitable words.
